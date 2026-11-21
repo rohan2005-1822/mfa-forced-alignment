@@ -1,0 +1,5 @@
+numpy
+scipy
+matplotlib
+# Montreal Forced Aligner is installed with conda, not pip:
+#   conda create -n aligner -c conda-forge python=3.11 montreal-forced-aligner
